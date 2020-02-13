@@ -1,0 +1,19 @@
+.inputBox {
+  height: 50px;
+  width: 320px;
+  background-color: #f2f2f2;
+  border:none;
+  font-size: 20px;
+}
+
+.button {
+  width: 320px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
